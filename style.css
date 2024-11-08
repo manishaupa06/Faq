@@ -1,0 +1,40 @@
+body{
+    background-image:url("mkjpg.jpg");
+   
+   
+    padding-top:20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.header
+{
+border-radius: 20px 20px 0px 0px;
+padding:10px 0px;
+width:100%;
+background-color: rgb(30, 22, 37);
+text-align: center;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.faq-item{
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.faq-body{
+    display:none;
+    margin-top:30px;
+}
+.faq-wrapper{
+
+    width:75%;
+    margin:0 auto;
+}
+.faq-inner{
+    padding:30px;
+    backgraound:aliceblue;
+}
+.faq-plus{
+    float:right;
+    font-size:1.4em;
+    line-height:1em;
+    cursor:pointer;
+}
